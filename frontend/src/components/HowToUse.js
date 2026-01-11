@@ -100,7 +100,7 @@ const HowToUse = ({ onClose }) => {
 
                 <div style={{ ...sectionStyle, borderTop: '1px solid var(--control-border)', paddingTop: '20px', textAlign: 'center' }}>
                     <a
-                        href="https://github.com/lohitpt252003/graph-implementation"
+                        href="https://github.com/MeenaPriyanshi/graph-visualizer"
                         target="_blank"
                         rel="noopener noreferrer"
                         style={{ color: 'var(--accent-color)', textDecoration: 'none', fontWeight: 'bold' }}

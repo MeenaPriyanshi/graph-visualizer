@@ -31,7 +31,7 @@ A powerful and interactive web application for visualizing graph data structures
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/MeenaPriyanshi/graph-implementation.git
+    git clone https://github.com/MeenaPriyanshi/graph-visualizer.git
     cd graph-implementation
     ```
 
